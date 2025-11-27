@@ -28,7 +28,7 @@ export default function TicketMedioReport() {
           />
         </div>
         <div className={styles.infoStack}>
-          <InfoCard title="IOREN IPSUN">
+          <InfoCard title="OQUE O TICKET MÉDIO INDICA?">
             <p>{descriptions.ticketMedio}</p>
           </InfoCard>
           <InfoCard title="Meses com melhor ticket">
