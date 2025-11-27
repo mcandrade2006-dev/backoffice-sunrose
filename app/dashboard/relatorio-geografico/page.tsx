@@ -26,7 +26,7 @@ export default function GeograficoReport() {
           />
         </div>
         <div className={styles.infoStack}>
-          <InfoCard title="IOREN IPSUN">
+          <InfoCard title="DESEMPENHO POR REGIÂO">
             <p>{descriptions.geografia}</p>
           </InfoCard>
           <InfoCard title="Participação no total">
