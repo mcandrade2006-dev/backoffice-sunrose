@@ -18,7 +18,7 @@ export default function DashboardHome() {
       sidebar={<SidebarMenu items={menuItems} />}
     >
       <div className={styles.infoGrid}>
-        <InfoCard title="IOREN IPSUN">
+        <InfoCard title="COMO NAVEGAR?">
           <div>
             <p>
               Utilize os botões ao lado para navegar pelos relatórios disponibilizados
