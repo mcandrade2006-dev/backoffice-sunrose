@@ -34,7 +34,7 @@ export default function FaturamentoReport() {
           />
         </div>
         <div className={styles.infoStack}>
-          <InfoCard title="Faturamento Mensal">
+          <InfoCard title="SOBRE O FATURAMENTO">
             <p>{descriptions.faturamento}</p>
           </InfoCard>
           <InfoCard title="Canais em Destaque">
