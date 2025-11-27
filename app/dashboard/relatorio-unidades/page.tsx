@@ -22,7 +22,7 @@ export default function UnidadesReport() {
           <BarChartCard title="Unidades Vendidas por Mês" labels={labels} values={values} />
         </div>
         <div className={styles.infoStack}>
-          <InfoCard title="IOREN IPSUN">
+          <InfoCard title="DEPENHO DE VENDAS">
             <p>{descriptions.unidades}</p>
           </InfoCard>
           <InfoCard title="Resumo rápido">
