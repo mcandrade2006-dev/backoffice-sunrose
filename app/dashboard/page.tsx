@@ -29,7 +29,9 @@ export default function DashboardHome() {
             <TransactionHighlights />
           </div>
         </InfoCard>
-        <div className={styles.emptyPanel}>IOREN IPSUN</div>
+        <div className={styles.emptyPanel}>Seja bem vindo!
+Aqui no novo dashboad da SUNROSE BEACH WEAR vc pode acompanhar com mais carinho e cuidado tudo que andamos vendendo, a quantidade e a localização dos nossos compradores fiéis. 
+Não é muito melhor ter tudo na palma da mão?</div>
       </div>
     </AppShell>
   );
